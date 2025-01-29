@@ -1,0 +1,30 @@
+body{
+    background:#385667;
+    margin: 10%;
+  }
+
+.section-1, .section-2, .section-3 {
+display: flex;
+justify-content: center;
+column-gap: 20px;
+margin: 20px;
+
+    
+}
+
+.big-1, .big-2, .big-3, .big-4, .big-5, .big-6 {
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    width: 600px;
+    height: 300px;
+    display: flex;
+}
+
+.small {
+    background-color: #a44235;
+    border-radius: 10px;
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+
+}
